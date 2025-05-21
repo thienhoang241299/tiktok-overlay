@@ -7,7 +7,7 @@ export default function AddSongForm({ onAdd }) {
   const [gifts, setGifts] = useState([]);
 
   useEffect(() => {
-    fetch("/public/tiktok_gifts_full.json")
+    fetch("/tiktok_gifts_full.json")
       .then((res) => res.json())
       .then((data) => setGifts(data))
       .catch((err) => console.error("Failed to load gifts:", err));
