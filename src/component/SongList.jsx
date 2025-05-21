@@ -8,14 +8,14 @@ export default function SongList({ songs, onDelete, onSave }) {
 
   return (
     <div>
-      <table class="w-full table-auto border-collapse border border-black mt-4">
+      <table className="w-full table-auto border-collapse border border-black mt-4">
         <thead>
           <tr>
-            <th class="border border-black px-4 py-2">#</th>
-            <th class="border border-black px-4 py-2">Tên bài hát</th>
-            <th class="border border-black px-4 py-2">Gift ID</th>
-            <th class="border border-black px-4 py-2">Vote</th>
-            <th class="border border-black px-4 py-2">Hành động</th>
+            <th className="border border-black px-4 py-2">#</th>
+            <th className="border border-black px-4 py-2">Tên bài hát</th>
+            <th className="border border-black px-4 py-2">Gift ID</th>
+            <th className="border border-black px-4 py-2">Vote</th>
+            <th className="border border-black px-4 py-2">Hành động</th>
           </tr>
         </thead>
         <tbody>

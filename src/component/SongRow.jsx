@@ -1,21 +1,21 @@
 import React, { useState, useEffect } from "react";
 import Select from "react-select";
+
 export default function SongRow({ index, song, onDelete, onSave }) {
   const [isEditing, setIsEditing] = useState(false);
   const [name, setName] = useState(song.name);
-  const [giftId, setGiftId] = useState(song.giftId);
   const [gifts, setGifts] = useState([]);
+  const [giftId, setGiftId] = useState(null); // sẽ là object {value,label}
 
-  // Load data gift từ file public json
+  // Load gifts
   useEffect(() => {
     fetch("/tiktok_gifts_full.json")
       .then((res) => res.json())
       .then(setGifts)
-      .catch((err) => {
-        console.error("Failed to load gifts json", err);
-        setGifts([]);
-      });
+      .catch(() => setGifts([]));
   }, []);
+
+  // Tạo options cho react-select
   const options = gifts.map((gift) => ({
     value: gift.id,
     label: (
@@ -29,21 +29,36 @@ export default function SongRow({ index, song, onDelete, onSave }) {
       </div>
     ),
   }));
+
+  // Khi gifts hoặc song.giftId thay đổi, set giftId state là object phù hợp
+  useEffect(() => {
+    const selectedOption = options.find(
+      (opt) => String(opt.value) === String(song.giftId)
+    );
+    setGiftId(selectedOption || null);
+  }, [song.giftId]);
+
   const save = () => {
-    if (!name || !giftId)
-      return alert("Tên bài hát và Gift ID không được để trống");
-    onSave(index, { name, giftId: Number(giftId) });
+    if (!name || !giftId) {
+      alert("Tên bài hát và Gift ID không được để trống");
+      return;
+    }
+    // Gọi onSave với giftId.value (là id thực sự)
+    onSave(index, { name, giftId: Number(giftId.value) });
     setIsEditing(false);
   };
 
   const cancel = () => {
     setIsEditing(false);
     setName(song.name);
-    setGiftId(song.giftId);
+    const selectedOption = options.find(
+      (opt) => String(opt.value) === String(song.giftId)
+    );
+    setGiftId(selectedOption || null);
   };
 
-  // Tìm gift object theo giftId
-  const giftObj = gifts.find((g) => String(g.id) === String(giftId));
+  // giftObj hiển thị khi không edit
+  const giftObj = gifts.find((g) => String(g.id) === String(song.giftId));
 
   return (
     <tr>
@@ -68,7 +83,7 @@ export default function SongRow({ index, song, onDelete, onSave }) {
                 control: (base) => ({
                   ...base,
                   borderRadius: 6,
-                  borderColor: "#d1d5db", // Tailwind gray-300
+                  borderColor: "#d1d5db",
                 }),
               }}
             />
