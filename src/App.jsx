@@ -5,13 +5,13 @@ import OverlaySongList from "./component/OverlaySongList";
 
 function App() {
   return (
-    <>
+    <div className="bg-transparent">
       <Routes>
         <Route path="/" element={<ManageSongs />} />
         <Route path="/m" element={<ManageSongs />} />
         <Route path="/o" element={<OverlaySongList />} />
       </Routes>
-    </>
+    </div>
   );
 }
 
