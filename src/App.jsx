@@ -5,7 +5,7 @@ import OverlaySongList from "./component/OverlaySongList";
 
 function App() {
   return (
-    <div className="bg-transparent">
+    <div className="bg-none">
       <Routes>
         <Route path="/" element={<ManageSongs />} />
         <Route path="/m" element={<ManageSongs />} />
