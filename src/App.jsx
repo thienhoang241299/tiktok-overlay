@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Navigate to="/m" />} />
+        <Route path="/" element={<ManageSongs />} />
         <Route path="/m" element={<ManageSongs />} />
         <Route path="/o" element={<OverlaySongList />} />
       </Routes>
