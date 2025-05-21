@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+import Select from "react-select";
 export default function SongRow({ index, song, onDelete, onSave }) {
   const [isEditing, setIsEditing] = useState(false);
   const [name, setName] = useState(song.name);
@@ -16,7 +16,19 @@ export default function SongRow({ index, song, onDelete, onSave }) {
         setGifts([]);
       });
   }, []);
-
+  const options = gifts.map((gift) => ({
+    value: gift.id,
+    label: (
+      <div className="flex items-center space-x-2">
+        <img
+          src={gift.image.replace("./public", "")}
+          alt={gift.name}
+          className="w-6 h-6 rounded"
+        />
+        <span>{gift.name}</span>
+      </div>
+    ),
+  }));
   const save = () => {
     if (!name || !giftId)
       return alert("Tên bài hát và Gift ID không được để trống");
@@ -45,19 +57,30 @@ export default function SongRow({ index, song, onDelete, onSave }) {
       </td>
       <td className="border border-black px-2 py-2">
         {isEditing ? (
-          <input
-            type="number"
-            value={giftId}
-            onChange={(e) => setGiftId(e.target.value)}
-          />
+          <div className="inline-block w-60 mr-3">
+            <Select
+              options={options}
+              value={giftId}
+              onChange={setGiftId}
+              placeholder="Chọn Gift"
+              isClearable
+              styles={{
+                control: (base) => ({
+                  ...base,
+                  borderRadius: 6,
+                  borderColor: "#d1d5db", // Tailwind gray-300
+                }),
+              }}
+            />
+          </div>
         ) : giftObj ? (
-          <div className="flex justify-center gap-x-2">
+          <div className="flex flex-col-reverse sm:flex-row justify-between items-center gap-x-2 gap-y-1">
             <img
               src={giftObj.image}
               alt={giftObj.name}
               className="w-6 h-6 object-contain"
             />
-            <span>{giftObj.name}</span>
+            <p>{giftObj.name}</p>
           </div>
         ) : (
           song.giftId
@@ -66,24 +89,30 @@ export default function SongRow({ index, song, onDelete, onSave }) {
       <td className="border border-black px-4 py-2">{song.votes}</td>
       <td className="border border-black px-1 py-2">
         {isEditing ? (
-          <>
-            <button className="border border-black px-4 py-2" onClick={save}>
+          <div className="flex flex-col sm:flex-row gap-2">
+            <button
+              className="border border-black px-4 py-2 rounded"
+              onClick={save}
+            >
               Lưu
             </button>
-            <button className="border border-black px-4 py-2" onClick={cancel}>
+            <button
+              className="border border-black px-4 py-2 rounded"
+              onClick={cancel}
+            >
               Hủy
             </button>
-          </>
+          </div>
         ) : (
-          <div className="flex justify-center gap-x-2">
+          <div className="flex flex-col sm:flex-row justify-center gap-2">
             <button
-              className="border border-black px-4 py-2"
+              className="cursor-pointer border border-black px-4 py-2 rounded"
               onClick={() => setIsEditing(true)}
             >
               Sửa
             </button>
             <button
-              className="border border-black px-4 py-2"
+              className="cursor-pointer border border-black px-4 py-2 rounded"
               onClick={() => onDelete(index)}
             >
               Xóa
