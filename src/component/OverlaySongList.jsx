@@ -36,7 +36,7 @@ export default function OverlaySongList() {
           <p>🎵 Chưa có bài hát nào</p>
         ) : (
           <ul className="list">
-            <li className="p-2 mb-2 text-xs opacity-60 tracking-wide bg-black/5 border rounded-[6px] border-pink-300">
+            <li className="p-2 mb-2 text-xs tracking-wide bg-black/5 border rounded-[6px] ">
               List bài hát đang chờ có {songs.length > 0 ? songs.length : 0} bài
               hát
             </li>
@@ -45,7 +45,7 @@ export default function OverlaySongList() {
             {songs.slice(0, 7).map((song, idx) => (
               <li
                 key={idx}
-                className="list-row flex gap-1 items-center my-1 border rounded-[6px] border-pink-300 p-2 bg-black/5"
+                className="list-row flex gap-1 items-center my-1 border rounded-[6px]  p-2 bg-black/5"
               >
                 <img
                   className="h-10 w-10 rounded-full  object-cover"
@@ -58,7 +58,7 @@ export default function OverlaySongList() {
                 />
                 <div className="flex-1">
                   <div className="text-lg font-semibold">{song.name}</div>
-                  <div className="pt-1 text-xs uppercase font-medium opacity-70">
+                  <div className="pt-1 text-xs uppercase font-medium">
                     {song.votes} votes
                   </div>
                 </div>
