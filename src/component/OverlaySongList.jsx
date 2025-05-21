@@ -23,7 +23,7 @@ export default function OverlaySongList() {
     <div className="bg-transparent">
       <div
         style={{
-          width: 400,
+          width: 300,
 
           // backgroundColor: "rgba(0,0,0,0.2)",
           borderRadius: 10,
