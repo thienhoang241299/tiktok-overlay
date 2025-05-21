@@ -20,7 +20,7 @@ export default function OverlaySongList() {
   }, []);
 
   return (
-    <div>
+    <div className="bg-transparent">
       <div
         style={{
           width: 400,
