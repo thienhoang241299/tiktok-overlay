@@ -8,7 +8,7 @@ export default function SongList({ songs, onDelete, onSave }) {
 
   return (
     <div>
-      <table class="table-auto border-collapse border border-black mt-4">
+      <table class="w-full table-auto border-collapse border border-black mt-4">
         <thead>
           <tr>
             <th class="border border-black px-4 py-2">#</th>
