@@ -27,7 +27,7 @@ export default function OverlaySongList() {
 
           // backgroundColor: "rgba(0,0,0,0.2)",
           borderRadius: 10,
-          color: "black",
+          color: "white",
           fontFamily: "Arial, sans-serif",
           zIndex: 9999,
         }}
@@ -36,7 +36,7 @@ export default function OverlaySongList() {
           <p>🎵 Chưa có bài hát nào</p>
         ) : (
           <ul className="list">
-            <li className="p-2 mb-2 text-xs opacity-60 tracking-wide bg-white/10 border rounded-[6px] border-pink-300">
+            <li className="p-2 mb-2 text-xs opacity-60 tracking-wide bg-black/5 border rounded-[6px] border-pink-300">
               List bài hát đang chờ có {songs.length > 0 ? songs.length : 0} bài
               hát
             </li>
@@ -45,7 +45,7 @@ export default function OverlaySongList() {
             {songs.slice(0, 7).map((song, idx) => (
               <li
                 key={idx}
-                className="list-row flex gap-1 items-center my-1 border rounded-[6px] border-pink-300 p-2 bg-pink-50/30"
+                className="list-row flex gap-1 items-center my-1 border rounded-[6px] border-pink-300 p-2 bg-black/5"
               >
                 <img
                   className="h-10 w-10 rounded-full  object-cover"
