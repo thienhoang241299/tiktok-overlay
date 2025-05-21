@@ -2,919 +2,919 @@
   {
     "id": "8203",
     "name": "Great Team",
-    "image": "./public/img_gift/ff1b5216cf3b50aa851d6bd865957dba.webp",
+    "image": "/img_gift/ff1b5216cf3b50aa851d6bd865957dba.webp",
     "coin": "1"
   },
   {
     "id": "8202",
     "name": "Superb Team",
-    "image": "./public/img_gift/29ce845878feb46152b20a75a3259d56.webp",
+    "image": "/img_gift/29ce845878feb46152b20a75a3259d56.webp",
     "coin": "1"
   },
   {
     "id": "7831",
     "name": "Alien Peace Sign",
-    "image": "./public/img_gift/cd83433a0f1697a0b66a891cbd7cf1af.webp",
+    "image": "/img_gift/cd83433a0f1697a0b66a891cbd7cf1af.webp",
     "coin": "1"
   },
   {
     "id": "7934",
     "name": "Heart Me",
-    "image": "./public/img_gift/f82b75d67c3e4553d278404babdf91e2.webp",
+    "image": "/img_gift/f82b75d67c3e4553d278404babdf91e2.webp",
     "coin": "1"
   },
   {
     "id": "6470",
     "name": "May",
-    "image": "./public/img_gift/67cb233e8cf0454213300c945b2f9256.webp",
+    "image": "/img_gift/67cb233e8cf0454213300c945b2f9256.webp",
     "coin": "1"
   },
   {
     "id": "8201",
     "name": "We are a team",
-    "image": "./public/img_gift/0262b6d01e39dd56c2e877e13061c56d.webp",
+    "image": "/img_gift/0262b6d01e39dd56c2e877e13061c56d.webp",
     "coin": "1"
   },
   {
     "id": "7375",
     "name": "Lucky Pig",
-    "image": "./public/img_gift/a9241b01b970aa44c2d5cea5e8ba69d6.webp",
+    "image": "/img_gift/a9241b01b970aa44c2d5cea5e8ba69d6.webp",
     "coin": "1"
   },
   {
     "id": "7213",
     "name": "Squirrel",
-    "image": "./public/img_gift/38104bd52d316ea76464433b3b07dea7.webp",
+    "image": "/img_gift/38104bd52d316ea76464433b3b07dea7.webp",
     "coin": "1"
   },
   {
     "id": "6652",
     "name": "Lightning Bolt",
-    "image": "./public/img_gift/bfb4abdf65da281c7ccf0b682f3406a3.webp",
+    "image": "/img_gift/bfb4abdf65da281c7ccf0b682f3406a3.webp",
     "coin": "1"
   },
   {
     "id": "6784",
     "name": "Cake Slice",
-    "image": "./public/img_gift/ad3a323fa40f3dd967e65049d2d0764f.webp",
+    "image": "/img_gift/ad3a323fa40f3dd967e65049d2d0764f.webp",
     "coin": "1"
   },
   {
     "id": "6788",
     "name": "Glow Stick",
-    "image": "./public/img_gift/29d8d050f88ee2eb30b4099c86017d58.webp",
+    "image": "/img_gift/29d8d050f88ee2eb30b4099c86017d58.webp",
     "coin": "1"
   },
   {
     "id": "7002",
     "name": "Garden Gnome",
-    "image": "./public/img_gift/210fa9d66c1f0c1968608b40c4e698ea.webp",
+    "image": "/img_gift/210fa9d66c1f0c1968608b40c4e698ea.webp",
     "coin": "1"
   },
   {
     "id": "6649",
     "name": "Give It All",
-    "image": "./public/img_gift/574aa0cdd7b418a2a3af2ca4739e9e7f.webp",
+    "image": "/img_gift/574aa0cdd7b418a2a3af2ca4739e9e7f.webp",
     "coin": "1"
   },
   {
     "id": "6890",
     "name": "Love you",
-    "image": "./public/img_gift/c42e82a95ae799de0e860947971440ed.webp",
+    "image": "/img_gift/c42e82a95ae799de0e860947971440ed.webp",
     "coin": "1"
   },
   {
     "id": "6635",
     "name": "Thunder Hammer",
-    "image": "./public/img_gift/830012ba80bac708f9281417ede8696c.png",
+    "image": "/img_gift/830012ba80bac708f9281417ede8696c.png",
     "coin": "1"
   },
   {
     "id": "6447",
     "name": "Daisies",
-    "image": "./public/img_gift/a4a1823ef2c1bc65c4dc2a4e82ec446b.png",
+    "image": "/img_gift/a4a1823ef2c1bc65c4dc2a4e82ec446b.png",
     "coin": "1"
   },
   {
     "id": "6247",
     "name": "Heart",
-    "image": "./public/img_gift/0be54b4cf3e40c52fca6be3f71220d69.png",
+    "image": "/img_gift/0be54b4cf3e40c52fca6be3f71220d69.png",
     "coin": "1"
   },
   {
     "id": "6246",
     "name": "Thumbs Up",
-    "image": "./public/img_gift/49252fd7c65b99a3acf3e2ee18af2d67.png",
+    "image": "/img_gift/49252fd7c65b99a3acf3e2ee18af2d67.png",
     "coin": "1"
   },
   {
     "id": "5760",
     "name": "Weights",
-    "image": "./public/img_gift/87884fe9998fea43e8aa56ecce15a541.png",
+    "image": "/img_gift/87884fe9998fea43e8aa56ecce15a541.png",
     "coin": "1"
   },
   {
     "id": "5655",
     "name": "Rose",
-    "image": "./public/img_gift/cf6a40558018965a8171cf5a575dd9de.png",
+    "image": "/img_gift/cf6a40558018965a8171cf5a575dd9de.png",
     "coin": "1"
   },
   {
     "id": "5269",
     "name": "TikTok",
-    "image": "./public/img_gift/94aa2d574cfe6e3893c087cfb5a5efcd.png",
+    "image": "/img_gift/94aa2d574cfe6e3893c087cfb5a5efcd.png",
     "coin": "1"
   },
   {
     "id": "8205",
     "name": "No.1 Team",
-    "image": "./public/img_gift/966df61a39e36fe0f7237e55c3298117.webp",
+    "image": "/img_gift/966df61a39e36fe0f7237e55c3298117.webp",
     "coin": "5"
   },
   {
     "id": "8352",
     "name": "Cotton's Shell",
-    "image": "./public/img_gift/3b169a12b4f8686c68d596f6d47d2f77.webp",
+    "image": "/img_gift/3b169a12b4f8686c68d596f6d47d2f77.webp",
     "coin": "5"
   },
   {
     "id": "5487",
     "name": "Finger Heart",
-    "image": "./public/img_gift/2b2d66c2f9767fc8332ee1b5ba0c1057.png",
+    "image": "/img_gift/2b2d66c2f9767fc8332ee1b5ba0c1057.png",
     "coin": "5"
   },
   {
     "id": "8243",
     "name": "Cheer You Up",
-    "image": "./public/img_gift/bbc76c1cf6b20e20b2b4f149c04cb23d.webp",
+    "image": "/img_gift/bbc76c1cf6b20e20b2b4f149c04cb23d.webp",
     "coin": "9"
   },
   {
     "id": "8165",
     "name": "Chick",
-    "image": "./public/img_gift/8132c0b012e7100540e1f1e2a5b3265d.webp",
+    "image": "/img_gift/8132c0b012e7100540e1f1e2a5b3265d.webp",
     "coin": "10"
   },
   {
     "id": "8189",
     "name": "Maxwell",
-    "image": "./public/img_gift/73736d5ec979ad00f4b771397d9b998b.webp",
+    "image": "/img_gift/73736d5ec979ad00f4b771397d9b998b.webp",
     "coin": "10"
   },
   {
     "id": "7591",
     "name": "Tiny Diny",
-    "image": "./public/img_gift/864ac7928a78b43be2d1ee93915a53f5.webp",
+    "image": "/img_gift/864ac7928a78b43be2d1ee93915a53f5.webp",
     "coin": "10"
   },
   {
     "id": "8108",
     "name": "Dog Bone",
-    "image": "./public/img_gift/b0a8a8020986eb564713c042d23f83b2.webp",
+    "image": "/img_gift/b0a8a8020986eb564713c042d23f83b2.webp",
     "coin": "10"
   },
   {
     "id": "6249",
     "name": "Rugby Ball",
-    "image": "./public/img_gift/fa22f0507a304597b013268524a8573f.png",
+    "image": "/img_gift/fa22f0507a304597b013268524a8573f.png",
     "coin": "10"
   },
   {
     "id": "8448",
     "name": "Raccoon",
-    "image": "./public/img_gift/041896a3554f3d4b8c86f486bc81b125.webp",
+    "image": "/img_gift/041896a3554f3d4b8c86f486bc81b125.webp",
     "coin": "15"
   },
   {
     "id": "5658",
     "name": "Perfume",
-    "image": "./public/img_gift/cd5792b709a7f56cbb2b6669a0e13c29.png",
+    "image": "/img_gift/cd5792b709a7f56cbb2b6669a0e13c29.png",
     "coin": "20"
   },
   {
     "id": "8217",
     "name": "Capybara",
-    "image": "./public/img_gift/553d899c4bd4be31e7b051bb36e842f8.webp",
+    "image": "/img_gift/553d899c4bd4be31e7b051bb36e842f8.webp",
     "coin": "30"
   },
   {
     "id": "6471",
     "name": "Hi May",
-    "image": "./public/img_gift/622d597d3cec282d6d2c8129fedd5075.png",
+    "image": "/img_gift/622d597d3cec282d6d2c8129fedd5075.png",
     "coin": "88"
   },
   {
     "id": "8155",
     "name": "My favourite",
-    "image": "./public/img_gift/83bc324a57610cf85584ef3659dfae2d.webp",
+    "image": "/img_gift/83bc324a57610cf85584ef3659dfae2d.webp",
     "coin": "99"
   },
   {
     "id": "8130",
     "name": "Like-Pop",
-    "image": "./public/img_gift/9c96b3106699eadcdf54c3e379418b99.webp",
+    "image": "/img_gift/9c96b3106699eadcdf54c3e379418b99.webp",
     "coin": "99"
   },
   {
     "id": "6627",
     "name": "Bucket Hat",
-    "image": "./public/img_gift/a58831515ce8102cb72841e8ed45ed08.webp",
+    "image": "/img_gift/a58831515ce8102cb72841e8ed45ed08.webp",
     "coin": "99"
   },
   {
     "id": "7092",
     "name": "Guitar",
-    "image": "./public/img_gift/ba8b1c60d24c93fa641fa7f7ff5c1c5f.webp",
+    "image": "/img_gift/ba8b1c60d24c93fa641fa7f7ff5c1c5f.webp",
     "coin": "99"
   },
   {
     "id": "6432",
     "name": "Star",
-    "image": "./public/img_gift/4f3082259def021d1a2ed29e77a77713.png",
+    "image": "/img_gift/4f3082259def021d1a2ed29e77a77713.png",
     "coin": "99"
   },
   {
     "id": "6427",
     "name": "Hat and Mustache",
-    "image": "./public/img_gift/b5ba8728531da2e0e52e23b9479c246a.png",
+    "image": "/img_gift/b5ba8728531da2e0e52e23b9479c246a.png",
     "coin": "99"
   },
   {
     "id": "6097",
     "name": "Little Crown",
-    "image": "./public/img_gift/2b412c3b322b27cd9836bbe636ea2a1d.png",
+    "image": "/img_gift/2b412c3b322b27cd9836bbe636ea2a1d.png",
     "coin": "99"
   },
   {
     "id": "6104",
     "name": "Cap",
-    "image": "./public/img_gift/7a65e6037be114fa888bf04177a62f6a.png",
+    "image": "/img_gift/7a65e6037be114fa888bf04177a62f6a.png",
     "coin": "99"
   },
   {
     "id": "5659",
     "name": "Paper Crane",
-    "image": "./public/img_gift/bf071c7cc84cf3aac6435adbd222f577.png",
+    "image": "/img_gift/bf071c7cc84cf3aac6435adbd222f577.png",
     "coin": "99"
   },
   {
     "id": "7121",
     "name": "Marvelous Confetti",
-    "image": "./public/img_gift/cc8b527c9b83f76ee7fc314cc8cb80f6.webp",
+    "image": "/img_gift/cc8b527c9b83f76ee7fc314cc8cb80f6.webp",
     "coin": "100"
   },
   {
     "id": "6968",
     "name": "Hand Heart",
-    "image": "./public/img_gift/519497b062ded1019c958d5d0b352a7e.webp",
+    "image": "/img_gift/519497b062ded1019c958d5d0b352a7e.webp",
     "coin": "100"
   },
   {
     "id": "6960",
     "name": "Game Controller",
-    "image": "./public/img_gift/fbb8dd78b47184321d93e3ae5a1f2cca.webp",
+    "image": "/img_gift/fbb8dd78b47184321d93e3ae5a1f2cca.webp",
     "coin": "100"
   },
   {
     "id": "5585",
     "name": "Confetti",
-    "image": "./public/img_gift/fcb80819257fb17f881eeb85b3a0b0d2.png",
+    "image": "/img_gift/fcb80819257fb17f881eeb85b3a0b0d2.png",
     "coin": "100"
   },
   {
     "id": "5660",
     "name": "Hand Hearts",
-    "image": "./public/img_gift/4ccd4fad65bab7a9b8f9c66a321476b2.png",
+    "image": "/img_gift/4ccd4fad65bab7a9b8f9c66a321476b2.png",
     "coin": "100"
   },
   {
     "id": "5729",
     "name": "Butterfly",
-    "image": "./public/img_gift/82022fd917229b464490c1a59c87feb4.png",
+    "image": "/img_gift/82022fd917229b464490c1a59c87feb4.png",
     "coin": "169"
   },
   {
     "id": "7824",
     "name": "The Passion Rose",
-    "image": "./public/img_gift/813a759c5b88d3af96aa7b810b88fcf4.webp",
+    "image": "/img_gift/813a759c5b88d3af96aa7b810b88fcf4.webp",
     "coin": "199"
   },
   {
     "id": "8066",
     "name": "Goggles",
-    "image": "./public/img_gift/5207ae96e4b06bc496c826859fc828b8.webp",
+    "image": "/img_gift/5207ae96e4b06bc496c826859fc828b8.webp",
     "coin": "199"
   },
   {
     "id": "7927",
     "name": "Puppy Love",
-    "image": "./public/img_gift/62b5cc4c7414d33dde55b7a201ba5281.webp",
+    "image": "/img_gift/62b5cc4c7414d33dde55b7a201ba5281.webp",
     "coin": "199"
   },
   {
     "id": "6776",
     "name": "Birthday Glasses",
-    "image": "./public/img_gift/97520c1ceae957c77ef1dbcc0f092187.webp",
+    "image": "/img_gift/97520c1ceae957c77ef1dbcc0f092187.webp",
     "coin": "199"
   },
   {
     "id": "6713",
     "name": "Cheer For You",
-    "image": "./public/img_gift/15abbbe55a2269339a6b28e5c582fbfd.webp",
+    "image": "/img_gift/15abbbe55a2269339a6b28e5c582fbfd.webp",
     "coin": "199"
   },
   {
     "id": "6671",
     "name": "Love You",
-    "image": "./public/img_gift/fc521ab0494eb35cef33fde0c2b51555.webp",
+    "image": "/img_gift/fc521ab0494eb35cef33fde0c2b51555.webp",
     "coin": "199"
   },
   {
     "id": "6437",
     "name": "Garland Headpiece",
-    "image": "./public/img_gift/c097bdc90a3bff337a25f6c53aa1aee5.png",
+    "image": "/img_gift/c097bdc90a3bff337a25f6c53aa1aee5.png",
     "coin": "199"
   },
   {
     "id": "5880",
     "name": "Lock and Key",
-    "image": "./public/img_gift/f673b5dfc3bba9a9529425a4fa9e446f.png",
+    "image": "/img_gift/f673b5dfc3bba9a9529425a4fa9e446f.png",
     "coin": "199"
   },
   {
     "id": "5586",
     "name": "Hearts",
-    "image": "./public/img_gift/b97d8bfa0bc6d960cad3bfcf5716be12.png",
+    "image": "/img_gift/b97d8bfa0bc6d960cad3bfcf5716be12.png",
     "coin": "199"
   },
   {
     "id": "5509",
     "name": "Sunglasses",
-    "image": "./public/img_gift/bc837a05add0cf0f37e946d605df1a54.png",
+    "image": "/img_gift/bc837a05add0cf0f37e946d605df1a54.png",
     "coin": "199"
   },
   {
     "id": "6757",
     "name": "Dash",
-    "image": "./public/img_gift/16e177319d9f5cf312440139715612f5.webp",
+    "image": "/img_gift/16e177319d9f5cf312440139715612f5.webp",
     "coin": "299"
   },
   {
     "id": "8111",
     "name": "Superpower",
-    "image": "./public/img_gift/b3f6922a794374338c672b5a4c936aa0.webp",
+    "image": "/img_gift/b3f6922a794374338c672b5a4c936aa0.webp",
     "coin": "299"
   },
   {
     "id": "6265",
     "name": "Duck",
-    "image": "./public/img_gift/1032cb33afecc207c136dcd2cf0bbea1.png",
+    "image": "/img_gift/1032cb33afecc207c136dcd2cf0bbea1.png",
     "coin": "299"
   },
   {
     "id": "6267",
     "name": "Corgi",
-    "image": "./public/img_gift/2fe60d73a96b698efc61a1a434b4f3ed.png",
+    "image": "/img_gift/2fe60d73a96b698efc61a1a434b4f3ed.png",
     "coin": "299"
   },
   {
     "id": "6007",
     "name": "Boxing Gloves",
-    "image": "./public/img_gift/2fbb331b9697c6515c9bb1a4487153a6.png",
+    "image": "/img_gift/2fbb331b9697c6515c9bb1a4487153a6.png",
     "coin": "299"
   },
   {
     "id": "5882",
     "name": "Rock 'n' Roll",
-    "image": "./public/img_gift/0449df20dda027cdecb5c4fb1eb433c4.png",
+    "image": "/img_gift/0449df20dda027cdecb5c4fb1eb433c4.png",
     "coin": "299"
   },
   {
     "id": "8349",
     "name": "Cotton the Seal",
-    "image": "./public/img_gift/d0317b7d3411edd28a393a56d24a863f.webp",
+    "image": "/img_gift/d0317b7d3411edd28a393a56d24a863f.webp",
     "coin": "399"
   },
   {
     "id": "8327",
     "name": "Flower Flight",
-    "image": "./public/img_gift/144ff90bc7bc304c7c28064812d85ba2.webp",
+    "image": "/img_gift/144ff90bc7bc304c7c28064812d85ba2.webp",
     "coin": "399"
   },
   {
     "id": "7895",
     "name": "Gamer Cyber Mask",
-    "image": "./public/img_gift/df8a16397bb0ed28c0e522b4cfb26500.webp",
+    "image": "/img_gift/df8a16397bb0ed28c0e522b4cfb26500.webp",
     "coin": "399"
   },
   {
     "id": "5899",
     "name": "Swing",
-    "image": "./public/img_gift/dee86ec9c8e98ebcc58e2e3c09b93d10.png",
+    "image": "/img_gift/dee86ec9c8e98ebcc58e2e3c09b93d10.png",
     "coin": "399"
   },
   {
     "id": "8244",
     "name": "Hands Up",
-    "image": "./public/img_gift/c7e487b976e30be258208b2dcdbeabf8.webp",
+    "image": "/img_gift/c7e487b976e30be258208b2dcdbeabf8.webp",
     "coin": "499"
   },
   {
     "id": "6415",
     "name": "Music",
-    "image": "./public/img_gift/ee50d49d9ab88cac71617c69be201161.webp",
+    "image": "/img_gift/ee50d49d9ab88cac71617c69be201161.webp",
     "coin": "499"
   },
   {
     "id": "5731",
     "name": "Coral",
-    "image": "./public/img_gift/cd807cda047c9eaf69c24162916ff1fd.png",
+    "image": "/img_gift/cd807cda047c9eaf69c24162916ff1fd.png",
     "coin": "499"
   },
   {
     "id": "8232",
     "name": "Gardening",
-    "image": "./public/img_gift/87a750e1dfaf6d811af3d9970a64501d.webp",
+    "image": "/img_gift/87a750e1dfaf6d811af3d9970a64501d.webp",
     "coin": "500"
   },
   {
     "id": "8074",
     "name": "Cuddle with Me",
-    "image": "./public/img_gift/3c37f3a0b52c276a3374bfc0c1247d5c.webp",
+    "image": "/img_gift/3c37f3a0b52c276a3374bfc0c1247d5c.webp",
     "coin": "500"
   },
   {
     "id": "7282",
     "name": "Spaghetti Kiss",
-    "image": "./public/img_gift/708c406b13d9fd4811ae19a8be9c327b.webp",
+    "image": "/img_gift/708c406b13d9fd4811ae19a8be9c327b.webp",
     "coin": "500"
   },
   {
     "id": "7168",
     "name": "Money Gun",
-    "image": "./public/img_gift/9c7aa57e3bd14e2ed6c1d8acd53b1970.webp",
+    "image": "/img_gift/9c7aa57e3bd14e2ed6c1d8acd53b1970.webp",
     "coin": "500"
   },
   {
     "id": "7122",
     "name": "Gem Gun",
-    "image": "./public/img_gift/9b5cb58300a50651228e505b7714fdea.webp",
+    "image": "/img_gift/9b5cb58300a50651228e505b7714fdea.webp",
     "coin": "500"
   },
   {
     "id": "7357",
     "name": "TikTok Trophy",
-    "image": "./public/img_gift/1811197db0860ff395435d51d35598ef.webp",
+    "image": "/img_gift/1811197db0860ff395435d51d35598ef.webp",
     "coin": "699"
   },
   {
     "id": "5897",
     "name": "Swan",
-    "image": "./public/img_gift/a423a5b7b80743d36b8960e79421060c.png",
+    "image": "/img_gift/a423a5b7b80743d36b8960e79421060c.png",
     "coin": "699"
   },
   {
     "id": "5978",
     "name": "Train",
-    "image": "./public/img_gift/73c36a574fa91b8b44e1ff63ba130e93.png",
+    "image": "/img_gift/73c36a574fa91b8b44e1ff63ba130e93.png",
     "coin": "899"
   },
   {
     "id": "6233",
     "name": "Travel with You",
-    "image": "./public/img_gift/ad2519381f60bb3e2c6b603ed4baff24.png",
+    "image": "/img_gift/ad2519381f60bb3e2c6b603ed4baff24.png",
     "coin": "999"
   },
   {
     "id": "7123",
     "name": "Shiny air balloon",
-    "image": "./public/img_gift/b636bdafd709c81fa041f72ffdf56645.webp",
+    "image": "/img_gift/b636bdafd709c81fa041f72ffdf56645.webp",
     "coin": "1000"
   },
   {
     "id": "6781",
     "name": "Watermelon Love",
-    "image": "./public/img_gift/e8775b631b23ed6756b9cdb4132ee85e.webp",
+    "image": "/img_gift/e8775b631b23ed6756b9cdb4132ee85e.webp",
     "coin": "1000"
   },
   {
     "id": "5680",
     "name": "Disco ball",
-    "image": "./public/img_gift/864a0df77a777eb522157c4d8eb393a3.png",
+    "image": "/img_gift/864a0df77a777eb522157c4d8eb393a3.png",
     "coin": "1000"
   },
   {
     "id": "5587",
     "name": "Gold Mine",
-    "image": "./public/img_gift/7c99a5f7fed51db01ce85151e55e313e.png",
+    "image": "/img_gift/7c99a5f7fed51db01ce85151e55e313e.png",
     "coin": "1000"
   },
   {
     "id": "7963",
     "name": "Diamond Tree",
-    "image": "./public/img_gift/84761a2a3e0431bda3bf3d2cc9d02b3f.webp",
+    "image": "/img_gift/84761a2a3e0431bda3bf3d2cc9d02b3f.webp",
     "coin": "1088"
   },
   {
     "id": "6090",
     "name": "Fireworks",
-    "image": "./public/img_gift/e1e443ee1532c9f04922acf770f04edb.png",
+    "image": "/img_gift/e1e443ee1532c9f04922acf770f04edb.png",
     "coin": "1088"
   },
   {
     "id": "7624",
     "name": "Take a Drive",
-    "image": "./public/img_gift/aa0e7affca4b6d34877244af7f5b611c.webp",
+    "image": "/img_gift/aa0e7affca4b6d34877244af7f5b611c.webp",
     "coin": "1200"
   },
   {
     "id": "7984",
     "name": "Counting Sheep",
-    "image": "./public/img_gift/006d4bd8018d5da1addb803dabd2b64b.webp",
+    "image": "/img_gift/006d4bd8018d5da1addb803dabd2b64b.webp",
     "coin": "1200"
   },
   {
     "id": "7367",
     "name": "Diamond Ring",
-    "image": "./public/img_gift/572f9e9d8fa61bee659551cfa1fa873d.webp",
+    "image": "/img_gift/572f9e9d8fa61bee659551cfa1fa873d.webp",
     "coin": "1500"
   },
   {
     "id": "7467",
     "name": "Chasing the Dream",
-    "image": "./public/img_gift/613bfe9574775d0c5b9be197cd96a745.webp",
+    "image": "/img_gift/613bfe9574775d0c5b9be197cd96a745.webp",
     "coin": "1500"
   },
   {
     "id": "5955",
     "name": "Champion",
-    "image": "./public/img_gift/60a55983aa3cf0b2c30de3b30aedcbea.png",
+    "image": "/img_gift/60a55983aa3cf0b2c30de3b30aedcbea.png",
     "coin": "1500"
   },
   {
     "id": "5651",
     "name": "Garland",
-    "image": "./public/img_gift/b31ad3573f6b4fe41e89e16f2615606d.png",
+    "image": "/img_gift/b31ad3573f6b4fe41e89e16f2615606d.png",
     "coin": "1500"
   },
   {
     "id": "8245",
     "name": "Here We Go",
-    "image": "./public/img_gift/9c39ed829f6bb4730b9fadc0d7dff5d3.webp",
+    "image": "/img_gift/9c39ed829f6bb4730b9fadc0d7dff5d3.webp",
     "coin": "1799"
   },
   {
     "id": "8277",
     "name": "Love Drop",
-    "image": "./public/img_gift/df08b30c59ff13f1eec030d1e27a2a35.webp",
+    "image": "/img_gift/df08b30c59ff13f1eec030d1e27a2a35.webp",
     "coin": "1800"
   },
   {
     "id": "6327",
     "name": "Airship",
-    "image": "./public/img_gift/da5e075e4040fd8a3b60d4f28a2fb5db.webp",
+    "image": "/img_gift/da5e075e4040fd8a3b60d4f28a2fb5db.webp",
     "coin": "1999"
   },
   {
     "id": "7529",
     "name": "Mystery Firework",
-    "image": "./public/img_gift/666cd8c2e66d6fb004ca64c8112af989.webp",
+    "image": "/img_gift/666cd8c2e66d6fb004ca64c8112af989.webp",
     "coin": "1999"
   },
   {
     "id": "6797",
     "name": "Super Cake",
-    "image": "./public/img_gift/ba9debb65391244c8f6645438f6bc261.webp",
+    "image": "/img_gift/ba9debb65391244c8f6645438f6bc261.webp",
     "coin": "1999"
   },
   {
     "id": "6789",
     "name": "Star of Red Carpet",
-    "image": "./public/img_gift/4229588ababc215c9fab76e953647c89.webp",
+    "image": "/img_gift/4229588ababc215c9fab76e953647c89.webp",
     "coin": "1999"
   },
   {
     "id": "6862",
     "name": "Cooper Flies Home",
-    "image": "./public/img_gift/e3bb5fd549bc047912dda450fb714f84.webp",
+    "image": "/img_gift/e3bb5fd549bc047912dda450fb714f84.webp",
     "coin": "1999"
   },
   {
     "id": "6834",
     "name": "Gift Box",
-    "image": "./public/img_gift/f76b6dc0d74fa3dd7a0a3e7c703fae13.webp",
+    "image": "/img_gift/f76b6dc0d74fa3dd7a0a3e7c703fae13.webp",
     "coin": "1999"
   },
   {
     "id": "6033",
     "name": "Make-up Box",
-    "image": "./public/img_gift/775b702c6935f6b7fc82fca6221d65b0.png",
+    "image": "/img_gift/775b702c6935f6b7fc82fca6221d65b0.png",
     "coin": "1999"
   },
   {
     "id": "6381",
     "name": "Telephone Box",
-    "image": "./public/img_gift/5f026787f952abbffd3d7fc1b4cbe1c2.webp",
+    "image": "/img_gift/5f026787f952abbffd3d7fc1b4cbe1c2.webp",
     "coin": "2100"
   },
   {
     "id": "6820",
     "name": "Whale Diving",
-    "image": "./public/img_gift/ab9021773e219665f526cee02252f936.webp",
+    "image": "/img_gift/ab9021773e219665f526cee02252f936.webp",
     "coin": "2150"
   },
   {
     "id": "8038",
     "name": "Double trouble",
-    "image": "./public/img_gift/d13464a899047febd2bd3db61835cb1b.webp",
+    "image": "/img_gift/d13464a899047febd2bd3db61835cb1b.webp",
     "coin": "2988"
   },
   {
     "id": "5765",
     "name": "Motorcycle",
-    "image": "./public/img_gift/0c6f14d291823969c916aa782c842d9a.png",
+    "image": "/img_gift/0c6f14d291823969c916aa782c842d9a.png",
     "coin": "2988"
   },
   {
     "id": "8188",
     "name": "Dancing Bears",
-    "image": "./public/img_gift/584e1dee044c0c11126d2f031ec86a5f.webp",
+    "image": "/img_gift/584e1dee044c0c11126d2f031ec86a5f.webp",
     "coin": "3000"
   },
   {
     "id": "6563",
     "name": "Meteor Shower",
-    "image": "./public/img_gift/5d501b2acc4a12ca9fe685b0cf6fcaba.png",
+    "image": "/img_gift/5d501b2acc4a12ca9fe685b0cf6fcaba.png",
     "coin": "3000"
   },
   {
     "id": "5652",
     "name": "Ferris Wheel",
-    "image": "./public/img_gift/837718d3a337816f89652d44ef970a90.png",
+    "image": "/img_gift/837718d3a337816f89652d44ef970a90.png",
     "coin": "3000"
   },
   {
     "id": "8152",
     "name": "Spring train",
-    "image": "./public/img_gift/eeb69650806ea4c2e22558ef4b5e2b47.webp",
+    "image": "/img_gift/eeb69650806ea4c2e22558ef4b5e2b47.webp",
     "coin": "3999"
   },
   {
     "id": "6835",
     "name": "Gift Box",
-    "image": "./public/img_gift/951f010f281aea5b15e90d74b7e6306c.webp",
+    "image": "/img_gift/951f010f281aea5b15e90d74b7e6306c.webp",
     "coin": "3999"
   },
   {
     "id": "6148",
     "name": "Flower Overflow",
-    "image": "./public/img_gift/3b1bfc1ba027d7839fe822a7e51d2833.png",
+    "image": "/img_gift/3b1bfc1ba027d7839fe822a7e51d2833.png",
     "coin": "4000"
   },
   {
     "id": "7124",
     "name": "Signature Jet",
-    "image": "./public/img_gift/928ee6f6bfe12d363c1bbc7f8b03e7e0.webp",
+    "image": "/img_gift/928ee6f6bfe12d363c1bbc7f8b03e7e0.webp",
     "coin": "4888"
   },
   {
     "id": "6646",
     "name": "Leon the Kitten",
-    "image": "./public/img_gift/42a0a84bd8a818dbe2c98d84233f12fb.png",
+    "image": "/img_gift/42a0a84bd8a818dbe2c98d84233f12fb.png",
     "coin": "4888"
   },
   {
     "id": "5767",
     "name": "Private Jet",
-    "image": "./public/img_gift/8bbe338da8052146506e3a802a3cd0d8.png",
+    "image": "/img_gift/8bbe338da8052146506e3a802a3cd0d8.png",
     "coin": "4888"
   },
   {
     "id": "8415",
     "name": "Knockout",
-    "image": "./public/img_gift/7a6076446639aade9d5498df45ba7f9b.webp",
+    "image": "/img_gift/7a6076446639aade9d5498df45ba7f9b.webp",
     "coin": "4999"
   },
   {
     "id": "7482",
     "name": "Flying Jets",
-    "image": "./public/img_gift/bc96de02ceba4b91c1f9c996293974b4.webp",
+    "image": "/img_gift/bc96de02ceba4b91c1f9c996293974b4.webp",
     "coin": "5000"
   },
   {
     "id": "6922",
     "name": "Ellie the Elephant",
-    "image": "./public/img_gift/57bc2767a0041a594dcbb6321c0c8679.webp",
+    "image": "/img_gift/57bc2767a0041a594dcbb6321c0c8679.webp",
     "coin": "5000"
   },
   {
     "id": "7468",
     "name": "Dancing Adam",
-    "image": "./public/img_gift/6318d17d7a2526f521123402d19a4c3e.webp",
+    "image": "/img_gift/6318d17d7a2526f521123402d19a4c3e.webp",
     "coin": "5000"
   },
   {
     "id": "6719",
     "name": "Beach Hut",
-    "image": "./public/img_gift/ffce7cd46aaa6c2b27ccba610cf35a39.webp",
+    "image": "/img_gift/ffce7cd46aaa6c2b27ccba610cf35a39.webp",
     "coin": "5000"
   },
   {
     "id": "6864",
     "name": "Cooper's Home",
-    "image": "./public/img_gift/b289cd0ec91e4658bd31e48b4e69674e.webp",
+    "image": "/img_gift/b289cd0ec91e4658bd31e48b4e69674e.webp",
     "coin": "5999"
   },
   {
     "id": "8247",
     "name": "Happy Party",
-    "image": "./public/img_gift/c1d7cbc8ea8493709416759f049b03be.webp",
+    "image": "/img_gift/c1d7cbc8ea8493709416759f049b03be.webp",
     "coin": "6999"
   },
   {
     "id": "6787",
     "name": "Birthday Party",
-    "image": "./public/img_gift/07285ba7471fb98743bfe308d0b58ce2.webp",
+    "image": "/img_gift/07285ba7471fb98743bfe308d0b58ce2.webp",
     "coin": "6999"
   },
   {
     "id": "6790",
     "name": "Celebration Time",
-    "image": "./public/img_gift/42a32ced64d47b5bf8e7f57dd5b7a57f.webp",
+    "image": "/img_gift/42a32ced64d47b5bf8e7f57dd5b7a57f.webp",
     "coin": "6999"
   },
   {
     "id": "6089",
     "name": "Sports Car",
-    "image": "./public/img_gift/a4fdb6b0c3a2efc75e09a0923976dd77.png",
+    "image": "/img_gift/a4fdb6b0c3a2efc75e09a0923976dd77.png",
     "coin": "7000"
   },
   {
     "id": "8420",
     "name": "Star Throne",
-    "image": "./public/img_gift/2495b97f5f4868e9e71612120c4eded5.webp",
+    "image": "/img_gift/2495b97f5f4868e9e71612120c4eded5.webp",
     "coin": "7999"
   },
   {
     "id": "8104",
     "name": "Monster Truck",
-    "image": "./public/img_gift/679fa1e8a32c9379751642775a7673e6.webp",
+    "image": "/img_gift/679fa1e8a32c9379751642775a7673e6.webp",
     "coin": "7999"
   },
   {
     "id": "7764",
     "name": "Star Throne",
-    "image": "./public/img_gift/864a37b3f4a8ad6d2e174bfa6e2e4f32.webp",
+    "image": "/img_gift/864a37b3f4a8ad6d2e174bfa6e2e4f32.webp",
     "coin": "7999"
   },
   {
     "id": "8417",
     "name": "Octopus",
-    "image": "./public/img_gift/1196ad0f243ca976832319a46c7935ed.webp",
+    "image": "/img_gift/1196ad0f243ca976832319a46c7935ed.webp",
     "coin": "10000"
   },
   {
     "id": "6203",
     "name": "Sunset Speedway",
-    "image": "./public/img_gift/855c619602420fe4f34eefe1ec809de6.png",
+    "image": "/img_gift/855c619602420fe4f34eefe1ec809de6.png",
     "coin": "10000"
   },
   {
     "id": "6149",
     "name": "Interstellar",
-    "image": "./public/img_gift/3854ed8e881ebbe5208882602b30cf88.png",
+    "image": "/img_gift/3854ed8e881ebbe5208882602b30cf88.png",
     "coin": "10000"
   },
   {
     "id": "8419",
     "name": "Red Lightning",
-    "image": "./public/img_gift/da93190dd1082f876b4461ec0924e453.webp",
+    "image": "/img_gift/da93190dd1082f876b4461ec0924e453.webp",
     "coin": "12000"
   },
   {
     "id": "7730",
     "name": "Frog Prince",
-    "image": "./public/img_gift/e6d35853c31cfe26bfa586f4008d99b7.webp",
+    "image": "/img_gift/e6d35853c31cfe26bfa586f4008d99b7.webp",
     "coin": "12000"
   },
   {
     "id": "6892",
     "name": "Race Car",
-    "image": "./public/img_gift/ee71e32f9e7bfa24a1d0e0a6dc28add1.webp",
+    "image": "/img_gift/ee71e32f9e7bfa24a1d0e0a6dc28add1.webp",
     "coin": "12000"
   },
   {
     "id": "6588",
     "name": "Spaceship",
-    "image": "./public/img_gift/245c4c7ce9bf5d5378586eb3a2478b42.webp",
+    "image": "/img_gift/245c4c7ce9bf5d5378586eb3a2478b42.webp",
     "coin": "13999"
   },
   {
     "id": "8416",
     "name": "Pyramids",
-    "image": "./public/img_gift/ad0365d14ba0480e5d6d60f6eb798608.webp",
+    "image": "/img_gift/ad0365d14ba0480e5d6d60f6eb798608.webp",
     "coin": "15000"
   },
   {
     "id": "8418",
     "name": "Speedster",
-    "image": "./public/img_gift/63fb5582c89c17f275fc99505505b719.webp",
+    "image": "/img_gift/63fb5582c89c17f275fc99505505b719.webp",
     "coin": "15000"
   },
   {
     "id": "6662",
     "name": "Castle Skyline",
-    "image": "./public/img_gift/6fb5067ff9f62e09cadfaef00b73aa75.webp",
+    "image": "/img_gift/6fb5067ff9f62e09cadfaef00b73aa75.webp",
     "coin": "15000"
   },
   {
     "id": "5954",
     "name": "Planet",
-    "image": "./public/img_gift/b296c2101cb24bc65e8abd2977d6c123.png",
+    "image": "/img_gift/b296c2101cb24bc65e8abd2977d6c123.png",
     "coin": "15000"
   },
   {
     "id": "8248",
     "name": "Fly Love",
-    "image": "./public/img_gift/d461d23ae2f3c5d2014f78a34c0b8956.webp",
+    "image": "/img_gift/d461d23ae2f3c5d2014f78a34c0b8956.webp",
     "coin": "19999"
   },
   {
     "id": "7125",
     "name": "Premium Shuttle",
-    "image": "./public/img_gift/cea9087fc79225ba647a6fa6bc60863c.webp",
+    "image": "/img_gift/cea9087fc79225ba647a6fa6bc60863c.webp",
     "coin": "20000"
   },
   {
     "id": "6751",
     "name": "TikTok Shuttle",
-    "image": "./public/img_gift/179f7f3a339166b1f3369bb9d829905d.webp",
+    "image": "/img_gift/179f7f3a339166b1f3369bb9d829905d.webp",
     "coin": "20000"
   },
   {
     "id": "7987",
     "name": "Griffin",
-    "image": "./public/img_gift/0f700fd4e875174d01ad04a8db2ae94e.webp",
+    "image": "/img_gift/0f700fd4e875174d01ad04a8db2ae94e.webp",
     "coin": "25999"
   },
   {
     "id": "7400",
     "name": "Adam’s Dream",
-    "image": "./public/img_gift/33b7de1f4f63e68ce8fa6d5693770042.webp",
+    "image": "/img_gift/33b7de1f4f63e68ce8fa6d5693770042.webp",
     "coin": "25999"
   },
   {
     "id": "7319",
     "name": "Phoenix",
-    "image": "./public/img_gift/ca9c644b2653d8315db71237b6b955eb.webp",
+    "image": "/img_gift/ca9c644b2653d8315db71237b6b955eb.webp",
     "coin": "25999"
   },
   {
     "id": "7610",
     "name": "Dragon Flame",
-    "image": "./public/img_gift/489f08c5dc7c27d0c1fc2a97d2f79b1d.webp",
+    "image": "/img_gift/489f08c5dc7c27d0c1fc2a97d2f79b1d.webp",
     "coin": "26999"
   },
   {
     "id": "6369",
     "name": "Lion",
-    "image": "./public/img_gift/f4bbea9d03b1453bd37d571282334f1b.png",
+    "image": "/img_gift/f4bbea9d03b1453bd37d571282334f1b.png",
     "coin": "29999"
   },
   {
     "id": "8391",
     "name": "Sam the Whale",
-    "image": "./public/img_gift/682a9a304ddd18ad08702f15236f4293.webp",
+    "image": "/img_gift/682a9a304ddd18ad08702f15236f4293.webp",
     "coin": "30000"
   },
   {
     "id": "8457",
     "name": "Zeus",
-    "image": "./public/img_gift/b5127bbee5491c0aa32f764b679b087d.webp",
+    "image": "/img_gift/b5127bbee5491c0aa32f764b679b087d.webp",
     "coin": "34000"
   },
   {
     "id": "7823",
     "name": "Leon and Lion",
-    "image": "./public/img_gift/833c0071d92604b5a544bf8f0ad72b68.webp",
+    "image": "/img_gift/833c0071d92604b5a544bf8f0ad72b68.webp",
     "coin": "34000"
   },
   {
     "id": "8381",
     "name": "Seal and Whale",
-    "image": "./public/img_gift/a4efc1be2a75340110072f2b6bba554b.webp",
+    "image": "/img_gift/a4efc1be2a75340110072f2b6bba554b.webp",
     "coin": "34500"
   },
   {
     "id": "7312",
     "name": "TikTok Universe+",
-    "image": "./public/img_gift/17263e949df9e7e2f173e6eae68fd198.webp",
+    "image": "/img_gift/17263e949df9e7e2f173e6eae68fd198.webp",
     "coin": "34999"
   },
   {
     "id": "6038",
     "name": "TikTok Universe",
-    "image": "./public/img_gift/8f06121e1c15be8566b3fc02982a2027.png",
+    "image": "/img_gift/8f06121e1c15be8566b3fc02982a2027.png",
     "coin": "34999"
   }
 ]
