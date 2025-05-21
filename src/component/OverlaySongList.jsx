@@ -24,10 +24,10 @@ export default function OverlaySongList() {
       <div
         style={{
           width: 400,
-          padding: 15,
-          backgroundColor: "rgba(0,0,0,0.5)",
+
+          // backgroundColor: "rgba(0,0,0,0.2)",
           borderRadius: 10,
-          color: "white",
+          color: "black",
           fontFamily: "Arial, sans-serif",
           zIndex: 9999,
         }}
@@ -35,18 +35,26 @@ export default function OverlaySongList() {
         {songs.length === 0 ? (
           <p>🎵 Chưa có bài hát nào</p>
         ) : (
-          <ul className="list rounded-box shadow-md">
-            <li className="p-4 pb-2 text-xs opacity-60 tracking-wide">
-              List bài hát đang chờ
+          <ul className="list">
+            <li className="p-2 mb-2 text-xs opacity-60 tracking-wide bg-white/10 border rounded-[6px] border-pink-300">
+              List bài hát đang chờ có {songs.length > 0 ? songs.length : 0} bài
+              hát
             </li>
 
             {/* Hiển thị tối đa 7 bài */}
             {songs.slice(0, 7).map((song, idx) => (
-              <li key={idx} className="list-row flex gap-3 items-center p-2">
+              <li
+                key={idx}
+                className="list-row flex gap-1 items-center my-1 border rounded-[6px] border-pink-300 p-2 bg-pink-50/30"
+              >
                 <img
-                  className="h-14 w-12 rounded-box object-cover"
+                  className="h-10 w-10 rounded-full  object-cover"
                   src="/img.jpeg" // nếu bạn đang dùng ảnh trong public, dùng đường dẫn như vậy
                   alt="thumbnail"
+                  style={{
+                    animation: "spin 4s linear infinite",
+                    transformOrigin: "center",
+                  }}
                 />
                 <div className="flex-1">
                   <div className="text-lg font-semibold">{song.name}</div>
