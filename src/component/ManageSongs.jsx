@@ -13,12 +13,31 @@ export default function ManageSongs() {
   const [error, setError] = useState("");
 
   useEffect(() => {
+    const fetchInitialSongs = async () => {
+      try {
+        const res = await fetch(`https://catdailoi.shop/api/songs/${roomId}`);
+        if (res.ok) {
+          const data = await res.json();
+          setSongs(data);
+          setError("");
+        } else {
+          setError("Không thể tải danh sách bài hát ban đầu");
+        }
+      } catch {
+        setError("Lỗi khi gọi API để lấy danh sách bài hát");
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchInitialSongs(); // <- gọi API lấy dữ liệu ban đầu
+
     socket.emit("joinRoom", { roomId });
 
     socket.on("updateVotes", (songs) => {
       setSongs(songs);
-      setLoading(false);
       setError("");
+      setLoading(false); // <- có thể set false ở đây nếu chưa được set
     });
 
     socket.on("connect_error", () => {
@@ -90,8 +109,13 @@ export default function ManageSongs() {
     }
   };
 
-  if (loading) return <p>Đang tải dữ liệu...</p>;
-
+  if (loading) {
+    return (
+      <div className="text-center mt-10">
+        <p className="animate-pulse text-gray-500">Đang tải dữ liệu...</p>
+      </div>
+    );
+  }
   return (
     <div
       style={{
